@@ -117,3 +117,15 @@ Izvor: [Pexels]([https://www.pexels.com/photo/ux-design-1/](https://www.pexels.c
 ## Citat
 
 > "Programiranje nije samo o tome što znate; to je o tome što možete dokučiti." — Chris Pine
+
+
+## napredne Značajke
+
+[](https://img.youtube.com/vi/XzOi-yNQYWs/0.jpg)](https://www.youtube.com/watch?v=XzOi-yNQYWs)
+
+- :rocket: Brza izvedba
+
+  > [!NOTE]
+> Važno
+
+
